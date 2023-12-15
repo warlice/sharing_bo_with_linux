@@ -1,0 +1,4 @@
+#Sat May 06 14:49:14 CST 2023
+base.0=/Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

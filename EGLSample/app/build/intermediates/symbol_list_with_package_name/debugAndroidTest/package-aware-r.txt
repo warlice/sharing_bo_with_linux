@@ -1,0 +1,1 @@
+com.android.samples.camera1.test

@@ -43,9 +43,14 @@ void *eglThreadImpl(void *context){
         }
 
         if(eglThread->isStart){
+            eglHelper->rotate_data();
+            glBindTexture(GL_TEXTURE_2D,eglHelper->texture);
+            glTexSubImage2D(GL_TEXTURE_2D,0,0,0,eglHelper->TEXTURE_DATA_WIDTH,eglHelper->TEXTURE_DATA_HEIGHT,GL_RGBA,GL_UNSIGNED_BYTE,eglHelper->texture_data);
+            eglHelper->gl_draw_scene();
             eglThread->onDraw();
             //切换缓冲区，显示
             eglHelper->swapBuffers();
+            LOGE("swap buffers");
 
             if(eglThread->mRenderType == RENDER_MODULE_AUTO){
                 // sleep 1/60秒，近似1秒绘制60帧

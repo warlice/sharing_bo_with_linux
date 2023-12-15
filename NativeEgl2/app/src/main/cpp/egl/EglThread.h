@@ -19,7 +19,7 @@ public:
     pthread_t mEglThread = -1;
     ANativeWindow *mANativeWindow = NULL;
 
-    int mRenderType = RENDER_MODULE_MANUAL;
+    int mRenderType = RENDER_MODULE_AUTO;
     bool isCreate = false;
     bool isChange = false;
     bool isExit = false;

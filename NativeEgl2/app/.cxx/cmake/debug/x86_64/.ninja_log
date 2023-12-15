@@ -1,0 +1,9 @@
+# ninja log v5
+1	89	1683167457	CMakeFiles/native-lib.dir/egl/EglHelper.cpp.o	88e13d46fac03461
+1	98	1683167457	CMakeFiles/native-lib.dir/egl/EglThread.cpp.o	3f4c5adf8ff34e88
+1	284	1683167457	CMakeFiles/native-lib.dir/native-lib.cpp.o	dae89144676677e9
+284	359	1683167457	/Users/warrior.gong/src/Android/NativeEgl2/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	2a9f715c65408545
+2	113	1683352883	CMakeFiles/native-lib.dir/egl/EglThread.cpp.o	3f4c5adf8ff34e88
+2	154	1683352883	CMakeFiles/native-lib.dir/egl/EglHelper.cpp.o	88e13d46fac03461
+1	304	1683352883	CMakeFiles/native-lib.dir/native-lib.cpp.o	dae89144676677e9
+304	440	1683352883	/Users/warrior.gong/src/Android/NativeEgl2/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	a8a63026739d3e71

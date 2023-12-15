@@ -1,0 +1,5 @@
+ninja: Entering directory `/Users/warrior.gong/src/Android/NativeEgl2/app/.cxx/cmake/debug/x86_64'
+[1/4] Building CXX object CMakeFiles/native-lib.dir/egl/EglThread.cpp.o
+[2/4] Building CXX object CMakeFiles/native-lib.dir/egl/EglHelper.cpp.o
+[3/4] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+[4/4] Linking CXX shared library /Users/warrior.gong/src/Android/NativeEgl2/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so

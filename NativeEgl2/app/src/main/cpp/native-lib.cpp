@@ -61,6 +61,7 @@ JNIEXPORT void JNICALL
 Java_com_android_samples_nativeegl_opengl_NativeOpenGL_nativeSurfaceDestroyed(JNIEnv *env,
                                                                               jobject thiz) {
     if(eglThread){
+        LOGE("set to exit");
         eglThread->isExit = true;
         //等待线程结束
         pthread_join(eglThread->mEglThread, NULL);

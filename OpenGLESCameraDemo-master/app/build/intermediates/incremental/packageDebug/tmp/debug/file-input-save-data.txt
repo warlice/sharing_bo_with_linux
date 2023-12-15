@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat May 06 14:49:14 CST 2023
+0.base=/Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

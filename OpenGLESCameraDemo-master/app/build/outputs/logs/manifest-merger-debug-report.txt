@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f0280773050c910543a4d3886e467d73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3bf62607b536698c9961c1609de1b5ad/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5aacf775d88a59178917a9503279e702/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/604f7878c4675450e2b6a9119d045066/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8696ddc387fac236ff869c69cce04e0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/14577e3205c69258aa1358e6f7571fe4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8d501e5813373bc9a99f08720a14a37c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/169649c5c7b195ba7aab4a6b2520f2f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9c40278740c8ef6d7d86452e0fa5e492/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/dd145c5aa71b1d7fd49ff724265ca60f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2e31505d1d0c1e95b4e90d5ba34aaf99/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3533bd8c7177f49442c814846cb798be/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:3:5-27
+		INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:7:22-62
+application
+ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:9:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3bf62607b536698c9961c1609de1b5ad/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3bf62607b536698c9961c1609de1b5ad/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.zzw.live.MainActivity
+ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.zzw.live.CameraActivity
+ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:23:9-26:45
+	android:theme
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:25:13-47
+	android:name
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml:26:13-43
+uses-sdk
+INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f0280773050c910543a4d3886e467d73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f0280773050c910543a4d3886e467d73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3bf62607b536698c9961c1609de1b5ad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3bf62607b536698c9961c1609de1b5ad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5aacf775d88a59178917a9503279e702/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5aacf775d88a59178917a9503279e702/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/604f7878c4675450e2b6a9119d045066/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/604f7878c4675450e2b6a9119d045066/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8696ddc387fac236ff869c69cce04e0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8696ddc387fac236ff869c69cce04e0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/14577e3205c69258aa1358e6f7571fe4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/14577e3205c69258aa1358e6f7571fe4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8d501e5813373bc9a99f08720a14a37c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8d501e5813373bc9a99f08720a14a37c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/169649c5c7b195ba7aab4a6b2520f2f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/169649c5c7b195ba7aab4a6b2520f2f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9c40278740c8ef6d7d86452e0fa5e492/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9c40278740c8ef6d7d86452e0fa5e492/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/dd145c5aa71b1d7fd49ff724265ca60f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/dd145c5aa71b1d7fd49ff724265ca60f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2e31505d1d0c1e95b4e90d5ba34aaf99/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2e31505d1d0c1e95b4e90d5ba34aaf99/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3533bd8c7177f49442c814846cb798be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/warrior.gong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3533bd8c7177f49442c814846cb798be/AndroidManifest.xml:20:5-44
+INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/warrior.gong/src/Android/OpenGLESCameraDemo-master/app/src/main/AndroidManifest.xml
